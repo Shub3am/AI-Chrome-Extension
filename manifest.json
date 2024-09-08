@@ -1,0 +1,9 @@
+{
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "name": "Shubham's AI Extension",
+    "action": {
+        "default_popup": "dist/js/index.html",
+        "default_title": "Shubham's AI Extension"
+    }
+}
